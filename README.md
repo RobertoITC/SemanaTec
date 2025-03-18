@@ -1,0 +1,2 @@
+# SemanaTec
+Herramientas Computacionales
